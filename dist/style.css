@@ -1,6 +1,9 @@
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  padding: 5px;
+  font-family: Arial;
+  font-size: 24px;
+  font-color: white;
+  background-color: red;
 }
 
 table {
@@ -26,4 +29,26 @@ tbody tr:nth-child(even) {
 
 tbody tr:hover {
   background-color: #e9e9e9;
+}
+
+img {
+  width: 300px;
+}
+
+#author-name-and-date {
+  font-family: Arial;
+  font-size: 12px;
+  font-color: gray;
+}
+
+p, ol {
+  font-family: Times New Roman;
+  font-size: 16px;
+  font-color: DarkSlateGray;
+}
+
+a {
+  font-family: Arial;
+  fint-size: 12px;
+  font-color: blue;
 }
